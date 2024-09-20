@@ -22,7 +22,7 @@
       name:
       - PYMYSQL
       - cryptography
-      executable: yes
+      executable: pip3.9
     
   # check password is setup or not
   - name: check db connection
